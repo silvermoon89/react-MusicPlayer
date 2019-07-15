@@ -32,7 +32,7 @@ class MusicPlayer extends Component {
       active: false,
       showVolume: false,
       volumeHeight: 50,
-      playListId : '739397941',
+      playListId : window.config.playListId,
       playListInfo: [],
       showSonglist: true,
     }
