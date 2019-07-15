@@ -6,8 +6,8 @@
 
 ## 运行
 1、首先运行后端的[网易云API](https://github.com/Binaryify/NeteaseCloudMusicApi)，请自行点击连接，按照说明运行。  
-2、克隆本项目，配置好API地址、uid和歌单id，获取网易云uid和歌单id的方法请自行百度。  
-、、、
+2、克隆本项目，配置好API地址、uid和歌单id，获取网易云uid和歌单id的方法，请自行百度。  
+```
 git clone https://github.com/silvermoon89/react-MusicPlayer.git
 
 cd react-MusicPlayer
@@ -15,7 +15,7 @@ cd react-MusicPlayer
 npm install 或 yarn install
 
 npm start 或 yarn start
-、、、
+```
 
 ## 线上演示
 [查看演示效果](http://silver.eleuu.com/content/templates/Demo/react-music/index.html)
